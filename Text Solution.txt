@@ -1,0 +1,17 @@
+
+1. Create Balloon Struct with number and image properties.
+2. Create UI label and image view and button in Storyboard.
+3. Connect the UI elements to the view controller.
+4. Create a helper function outside of the viewdidload function.
+5. In the helper function:
+	a. Create a for loop to loop through and create 99 instances of the balloon.
+	b. Assign values to balloon properties for each instance.
+	c. Create a random number constant for the amount of images to be displayed.
+	d. Create a switch statement to use each image as a case. With the default being accounted for also.
+	e. Append the instance of the balloon to the BalloonsArray.
+6. Create a current index variable to hold the current place in the array.
+7. Create an Array to hold the instances of the balloon.
+8. Call the function using self in the viewDidLoad function.
+9. When the next button is pressed set the balloon to be from the ballonsArray at currentIndex. 
+10. Update the label and imageView with the balloons properties.
+11. Add 1 to the current index for the gallons.
