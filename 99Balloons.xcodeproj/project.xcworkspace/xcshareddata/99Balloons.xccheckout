@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>998FF228-894F-44C7-AC5A-17C3F646118C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>99Balloons</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9CC1DC90C0BEB36E0D9912A0BE3DCB0BBCBFC369</key>
+		<string>github.com:rizwanjavaid/ShoeSizeConverter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>99Balloons-v2/99Balloons/99Balloons.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9CC1DC90C0BEB36E0D9912A0BE3DCB0BBCBFC369</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:rizwanjavaid/ShoeSizeConverter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9CC1DC90C0BEB36E0D9912A0BE3DCB0BBCBFC369</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CC1DC90C0BEB36E0D9912A0BE3DCB0BBCBFC369</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
